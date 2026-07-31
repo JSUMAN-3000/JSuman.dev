@@ -1,0 +1,110 @@
+.display-6 {
+    position: absolute;
+    top: 83%;
+    left: 40%;
+    transform: -50% -50%;
+}
+
+
+
+.name  {                    --> # button  gradient color property
+
+    background: radial-gradient(circle, rgb(206, 75, 35) rgb(243, 118, 2) yellow);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent ;
+
+}
+
+.box {
+    box-shadow:inset 0 -10px 100px -2px rgb(255, 246, 246);
+}
+
+
+.icon {
+    color: rgb(5, 109, 245);
+    width: 30px;
+    margin-bottom: 2px;
+}
+
+
+.hero {
+    background-color:  rgb(129, 58, 25);
+    margin-top: 100px;
+    width: auto ;
+}
+
+
+.lead {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: wheat;
+}
+
+
+.picture{
+    border-radius: 50%;
+    padding: 20px;
+    margin-top: 30px;
+}
+
+
+.section3{
+    width: 100%
+    background-image: url('./8272621_3861794_b3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+
+.img {
+    position: absolute;
+    top: 23%;
+    left: 21% ;
+    border-radius: 12%;
+
+}
+
+
+.boxy {
+    color: green;
+    text-decoration: none;
+    padding-bottom: 20px ;
+}
+
+.boxy:hover {
+  color: blueviolet;
+}
+
+
+.bi {
+   top: 40%;
+   left: 35%;
+   right: 90% ;
+   bottom: 0;
+   /* transform: translate(-50%, -50%); */
+   transform: rotate(90deg);
+   color: rgb(72, 206, 184)
+}
+
+
+
+.pic1{
+    border-radius: 12%;
+    right: 0;
+    left: 40%;
+    top: 56% ;
+    bottom: 90%;
+
+}
+
+
+
+~ html code:-
+<!--
+         <svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" fill="currentColor" class="bi bi-arrow-90deg-right" viewBox="0 0 16 16">
+           <path fill-rule="evenodd" d="M14.854 4.854a.5.5 0 0 0 0-.708l-4-4a.5.5 0 0 0-.708.708L13.293 4H3.5A2.5 2.5 0 0 0 1 6.5v8a.5.5 0 0 0 1 0v-8A1.5 1.5 0 0 1 3.5 5h9.793l-3.147 3.146a.5.5 0 0 0 .708.708z"/>
+         </svg> -->
+
+
+<!-- <button type="button" class="btn  btn-outline-light  btn-lg  px-4 "><a class="boxy1" href="./9649095_6909.jpg">photo</a></button> -->
