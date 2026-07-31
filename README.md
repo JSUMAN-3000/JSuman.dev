@@ -39,8 +39,8 @@ Welcome to the official repository for **JSuman.dev** repo.
 * **Development Environment:** Visual Studio Code (Live Preview).
 
 
-##* **YDeveloper:** denotes young developer who started the journey of development path.
+## YDeveloper: denotes young developer who started the journey of development path.
   
 
-##* **Website link (verified):**
+## Website link (verified):
 https://jsuman-3000.github.io/JSuman.dev
