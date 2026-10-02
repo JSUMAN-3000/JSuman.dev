@@ -38,8 +38,55 @@ Welcome to the official repository for **JSuman.dev** repo.
 * **Development Environment:** Visual Studio Code (Live Preview).
 
 
-## YDeveloper: denotes young developer who started the journey of development path.
+## YDeveloper: It denotes young developer who started the journey of software development with AI usage.
   
 
 ## Website link (verified):
 https://jsuman-3000.github.io/JSuman.dev
+
+
+
+## License & Commercial Use
+
+Copyright (c) 2026 Suman jana. All rights reserved.
+
+This project is provided for personal, educational, and non-commercial use only.
+
+### Commercial Use Restriction
+
+Commercial use of this project, including but not limited to:
+
+- Selling the software or modified versions of it
+- Using the software as part of a paid product or service
+- Using the software for commercial SaaS or hosted services
+- Redistributing the project for commercial purposes
+- Incorporating substantial portions of this project into a commercial product
+
+is prohibited without prior written permission from the copyright holder.
+
+### Permission
+
+You may:
+
+- View and study the source code
+- Use the project for personal learning and educational purposes
+- Modify the code for personal or educational purposes
+- Fork the repository for non-commercial development
+
+You may not commercially distribute, sell, sublicense, or monetize this project or substantial portions of its source code without obtaining written authorization.
+
+### Commercial Licensing
+
+For commercial use, enterprise deployment, redistribution, or licensing inquiries, please contact:
+
+**Suman jana**  
+**Email:**Sumanjana80040@gmail.com
+
+### Legal Notice
+
+Unauthorized commercial use, distribution, reproduction, or substantial copying of this project may constitute copyright infringement and may result in legal action or other remedies available under applicable law.
+
+Nothing in this notice grants permission to remove copyright notices, misrepresent authorship, or use the project in violation of applicable law.
+
+By using, copying, modifying, or distributing this project, you agree to comply with the terms stated above.
+
